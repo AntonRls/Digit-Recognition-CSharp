@@ -1,0 +1,12 @@
+C:\Users\Антон\source\repos\NeuralNetwork\NeuralNetwork\bin\Debug\NeuralNetwork.exe.config
+C:\Users\Антон\source\repos\NeuralNetwork\NeuralNetwork\bin\Debug\NeuralNetwork.exe
+C:\Users\Антон\source\repos\NeuralNetwork\NeuralNetwork\bin\Debug\NeuralNetwork.pdb
+C:\Users\Антон\source\repos\NeuralNetwork\NeuralNetwork\obj\Debug\NeuralNetwork.csproj.AssemblyReference.cache
+C:\Users\Антон\source\repos\NeuralNetwork\NeuralNetwork\obj\Debug\NeuralNetwork.csproj.CoreCompileInputs.cache
+C:\Users\Антон\source\repos\NeuralNetwork\NeuralNetwork\obj\Debug\NeuralNetwork.exe
+C:\Users\Антон\source\repos\NeuralNetwork\NeuralNetwork\obj\Debug\NeuralNetwork.pdb
+C:\Users\Антон\source\repos\NeuralNetwork\NeuralNetwork\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Антон\source\repos\NeuralNetwork\NeuralNetwork\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Антон\source\repos\NeuralNetwork\NeuralNetwork\obj\Debug\NeuralNetwork.csproj.CopyComplete
+C:\Users\Антон\source\repos\NeuralNetwork\NeuralNetwork\obj\Debug\NeuralNetwork.DrawNumberForm.resources
+C:\Users\Антон\source\repos\NeuralNetwork\NeuralNetwork\obj\Debug\NeuralNetwork.csproj.GenerateResource.cache
